@@ -18,6 +18,7 @@
 
 ### <li>I volunteer for Tong Moo Do Mixed Martial Arts</li>
 ### <li>Worked as a Math Tutor at Mathnasium</li>
+### <li>Volunteer as an Audio Engineer</li>
 ### </br>
 
 ### Skills and Intrests:
