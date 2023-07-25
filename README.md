@@ -1,7 +1,7 @@
-### <div id="header" align="center">Hi there 👋 My name is Timothy Solnyshkin.</div>
+### <div id="header" align="center">My name is Timothy Solnyshkin.</div>
 ###
 ### About Me:
-### <li>Currently a Student at Richmond Secondary School</li>
+### <li>UBC Sciences</li>
 
 <div>
   <img src="https://user-images.githubusercontent.com/86805807/201835484-a1265980-1026-4b6c-a2c1-39a784f2f3a1.png"width="90" height="90"/>&nbsp;
@@ -33,8 +33,6 @@
 
 ### <li>I develop video games</li>
 ### <li>Participate in Programming Competitions</li>
-### <li>I train Mixed Martial Arts 🥋</li>
-### <li>I preform and record music (Metal 🎸, Jazz 🎺)</li>
 ### </br>
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParallelVoid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
