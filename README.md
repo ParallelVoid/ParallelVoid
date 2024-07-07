@@ -1,23 +1,14 @@
 ### <div id="header" align="center">My name is Timothy Solnyshkin.</div>
 ###
 ### About Me:
-### <li>UBC Sciences</li>
-
-<div>
-</div>
-
-### <li>Enjoy computer science and mathematics</li>
+### I am a computer science student at the University of British Columbia. I have participated in a few Programming competitions. I frequently work on many game develoment projects, as well as web development. One of my clients was IntelligentLearning.ca:
 ### </br>
 
-### Work and Volunteer Experiences:
-### <li>I develope personal websites for clients, such as IntelligentLearning.ca</li>
 ### <div align="center">
 ### <img src="https://www.intelligentlearning.ca/_Template/intelligentlearning/logo-executive.png" />
 ### </div>
 
-### <li>I volunteer for Tong Moo Do Mixed Martial Arts</li>
-### <li>Worked as a Math Tutor at Mathnasium</li>
-### <li>Volunteer as an Audio Engineer</li>
+### I have experience as a math tutor and I have experience working in group settings.
 ### </br>
 
 ### Skills and Intrests:
