@@ -4,25 +4,16 @@
 ### I am a computer science student at the University of British Columbia. I have participated in a few Programming competitions. I frequently work on many game develoment projects, as well as web development. One of my clients was IntelligentLearning.ca:
 ### </br>
 
-### <div align="center">
-### <img src="https://www.intelligentlearning.ca/_Template/intelligentlearning/logo-executive.png" />
-### </div>
-
-### I have experience as a math tutor and I have experience working in group settings.
-### </br>
-
 ### Skills and Intrests:
 ### <li>I program in:</li>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"width="40" height="40"/>&nbsp;
 </div>
 
-### <li>I develop video games</li>
-### <li>Participate in Programming Competitions</li>
+### <li>I am interested in Software Engineering, Data Science and Game Dev</li>
 ### </br>
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParallelVoid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
