@@ -4,7 +4,6 @@
 ### I am a computer science student at the University of British Columbia. I am interested in Software Engineering, Data Science, Machine Learning and Game Development.
 ### </br>
 
-### Skills and Intrests:
 ### <li>I program in:</li>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"width="40" height="40"/>&nbsp;
