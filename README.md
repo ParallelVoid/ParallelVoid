@@ -1,7 +1,7 @@
 ### <div id="header" align="center">My name is Timothy Solnyshkin.</div>
 ###
 ### About Me:
-### I am a computer science student at the University of British Columbia. I have participated in a few Programming competitions. I frequently work on many game develoment projects, as well as web development. One of my clients was IntelligentLearning.ca:
+### I am a computer science student at the University of British Columbia. I am interested in Software Engineering, Data Science, Machine Learning and Game Development.
 ### </br>
 
 ### Skills and Intrests:
@@ -13,8 +13,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"width="40" height="40"/>&nbsp;
 </div>
 
-### <li>I am interested in Software Engineering, Data Science and Game Dev</li>
-### </br>
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParallelVoid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 📫 How to reach me:
