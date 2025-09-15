@@ -96,7 +96,7 @@
 ### Extras
 
 - 🔭 I’m currently working on Computer Vision project for an online chatroom
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning TypeScript
 - 🤝 I’m collaborating with University Peers on [Game Development projects](https://banana-byte-entertainment.github.io/)
 - ⚡ Fun fact: Our game "My City Turned Dystopian So I Started Vandalizing It" won a CyberPunk Game Jam on itch.io
 - 🥋 Outside of SWE I am a lifelong martial artist and comic book reader
