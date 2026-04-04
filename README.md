@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/12rambau/12rambau/master/Screensaver_Sequence.gif">
-</p>
-
 ### <div id="header" align="center">Timothy Solnyshkin - Machine Learning Specialist and Game Developer</div>
 ###
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me:
+### About Me:
  Hi, I’m a Computer Science student at the University of British Columbia with a strong passion for technology and problem-solving. My interests span Software Engineering, Data Science, Embedded SWE, Machine Learning, and Game Development. I enjoy building efficient, scalable solutions, exploring data-driven insights, and creating engaging user experiences through interactive applications. I also do sound design and music for games I make. Feel free to reach out for any reason.
 ### </br>
 
@@ -89,8 +85,7 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParallelVoid&layout=compact&theme=vision-friendly-dark" width="36.5%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ParallelVoid&show_icons=true&theme=vision-friendly-dark" width="48%" />
+  <img src="https://github-readme-stats-chi-jet-35.vercel.app/api/top-langs/?username=ParallelVoid&layout=compact&langs_count=8&hide=Tcl,cmake&card_width=320&theme=dark&hide_progress=true" />
 </p>
 
 ### Extras
