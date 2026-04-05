@@ -85,7 +85,7 @@
 
 
 <p align="left">
- ![ParallelVoid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParallelVoid&show_icons=true&theme=radical)
+ <img src="https://github-readme-stats-fast.vercel.app/api?username=ParallelVoid&show_icons=true&theme=gruvbox">
 </p>
 
 ### Extras
