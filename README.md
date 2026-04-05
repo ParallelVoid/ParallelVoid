@@ -85,14 +85,14 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats-chi-jet-35.vercel.app/api/top-langs/?username=ParallelVoid&layout=compact&langs_count=8&hide=Tcl,cmake&card_width=320&theme=dark&hide_progress=true" />
+ ![ParallelVoid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParallelVoid&show_icons=true&theme=radical)
 </p>
 
 ### Extras
 
-- 🔭 I’m currently working on Computer Vision project for an online chatroom
-- 🌱 I’m currently learning TypeScript
-- 🤝 I’m collaborating with University Peers on [Game Development projects](https://banana-byte-entertainment.github.io/)
+- 🔭 I’m currently working on Web Projects
+- 🌱 I’m currently learning embedded development
+- 🤝 I’m working as a Python Developer, working optimization of software and data pipelines
 - ⚡ Fun fact: Our game "My City Turned Dystopian So I Started Vandalizing It" won a CyberPunk Game Jam on itch.io
 - 🥋 Outside of SWE I am a lifelong martial artist and comic book reader
 
